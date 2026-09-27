@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Hakkımda
-Üniversitede **Matematik** eğitimi alırken, teorik matematiğin soyut gücünü yazılım dünyasıyla harmanlamaya odaklanmış bir geliştiriciyim. Amaacım; saf matematiksel modelleri, algoritma mantığını ve istatistiği gerçek dünya problemlerine, otonom sistemlere ve veri odaklı kararlara dönüştürmek. 
+Üniversitede **Matematik** eğitimi alırken, teorik matematiğin soyut gücünü yazılım dünyasıyla harmanlamaya odaklanmış bir geliştiriciyim. Amacım; saf matematiksel modelleri, algoritma mantığını ve istatistiği gerçek dünya problemlerine, otonom sistemlere ve veri odaklı kararlara dönüştürmek. 
 
 Düşük seviyeli bellek optimizasyonundan modern bilgisayarla görü algoritmalarına ve veri bilimi süreçlerine kadar geniş bir yelpazede kendimi sürekli geliştiriyorum.
 

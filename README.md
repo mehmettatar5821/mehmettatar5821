@@ -29,9 +29,11 @@ Düşük seviyeli bellek optimizasyonundan modern bilgisayarla görü algoritmal
 
 ---
 
-### 📊 GitHub İstatistiklerim
-<div align="center">
-  <a href=https://www.linkedin.com/in/mehmet-tatar-014b823b2/
-    <img src="https://github-readme-stats.vercel.app/api?username=tar5021&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</div>
+---
+
+### 📊 GitHub İstatistiklerim & İletişim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tar5021&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilimi%20Ziyaret%20Et-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-tatar-014b823b2/)

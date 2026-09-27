@@ -18,8 +18,6 @@ Matematik okuyan, teorik altyapıyı yazılım dünyasıyla harmanlamaya ve kend
 
 ---
 
-### 📊 GitHub İstatistiklerim
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmettatar5821&show_icons=true&theme=radical" />
 
 
